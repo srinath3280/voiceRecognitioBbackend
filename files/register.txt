@@ -1,1 +1,1 @@
-[{"username":"srinath","email":"lsrinathreddy@gmail.com","password":"12345","confirmpassword":"12345"}]
+[{"username":"srinath","email":"lsrinathreddy@gmail.com","password":"$2b$10$qxtUbj3HjP3IoyK616EeUOdxzxhOhKbws1/wEnZEgphREA6JGz7Zi"},{"username":"srinath","email":"srinath@gmail.com","password":"$2b$10$NBx7Wa.j6piDVPv8Cf.EkOviOhlg5GchwYHps3/HFGbfZeM2htHqG"},{"username":"test","email":"test@gmail.com","password":"$2b$10$hHYmbResS5qZF9EalLFGjux7W5AVnLy/BEx/5cRyfTutRK9Ob66Oe"}]
